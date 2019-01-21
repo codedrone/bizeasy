@@ -1,0 +1,184 @@
+
+
+.bizeazy-design-title { padding: 30px 0 0 12px !important; }
+.bizeazy-design-title .text{ font-size:12px;padding-top: 55px; }
+.file { opacity:0;width: 100%;margin-top: -50px;height: 80px;cursor: pointer;  }
+.username-bg-nav{ height: 50px; }
+.inner-phone{ height: 96%;width:100%;}
+.phoneView{ right: 150px ! important; }
+.androidView {
+	display: none;border-radius: 20px ! important;
+	width: 324px ! important;
+	padding: 60px 20px ! important;
+	height: 700px ! important;
+	margin-top: 9px ! important;
+	background: url("../images/android-frame.png") no-repeat;
+    background-size: 100%;
+    /*padding: 0px 22px !important;*/
+    margin-right: 103px ! important;
+    box-shadow: 0px 0px 0px 0px rgb(255, 255, 255) ! important;
+    
+    /*height: 114% ! important;*/
+	 }
+	.anddroid-statusbar
+	{
+	    top: 64px !important;
+	    width: 90% !important;
+    	margin-left: -172px !important;
+	}
+.modal-body{ padding-top: 15px;padding-bottom: 0px; }
+.modal-footer{ padding-top: 15px;padding-bottom: 15px; }
+/*popup modal*/
+.modal .modal-dialog .modal-content .modal-header { background-color: #e7edee; padding: 10px;text-align: center;border-top-right-radius: 2px;border-top-left-radius: 2px;background-color: #e7edee;  margin-bottom: -10px; }
+input.form-control, textarea.form-control { border-radius: 2px; padding: 5px 15px; }
+option{ font-size:14px; }
+.help-block{ display: none;margin-top: -10px;margin-bottom: 5px;color: red; font-size: 14px;}
+.help-block img{ margin-top: -12px;margin-right: 10px; }
+.errmsg1{ color:red; }
+.help-block1 { font-size: 14px;}
+.help-block1 img{ margin: -6px 4px 5px 0;display: none; }
+.bizeazy-ios-inc-btn{ margin: 26px 0 0 50px; }
+.bizeazy-android-inc-btn{ margin: 60px 0 0 60px; }
+.bizeazy-save-continue-btn{ margin-left: 50px; }
+
+.help-block{ display: none;margin-top: -10px;margin-bottom: 5px;color: red; font-size: 14px;}
+.errcolor { color: red !important;}
+.bizeazy-app-infohd{
+    	margin-top: 0px!important;
+    	 margin-bottom: 0px !important;
+    }
+p.apple-subtitle {
+	    float: left;
+	    width: 100%;
+	    font-weight: 400;
+	    font-size: 16px;
+	    padding: 10px 0 0px 20px;
+	}
+	.apple-title-order {
+	    float: left;
+	    width: 100%;
+	    margin-bottom: 30px;
+	    font-weight: 400;
+	    font-size: 16px;
+	    margin-left: 50px;
+	}
+	.apple-raw {
+	    float: left;
+	    width: auto;
+	    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+	    margin-bottom: 30px;
+	    border-radius: 3px;
+	    box-sizing: border-box;
+	    padding: 1px !important;
+	    background-color: transparent !important;
+	  }
+	  .apple-img-1 {
+		    float: left;
+		    width: 100%;
+		}
+		.apple-img-1 img {
+		    float: left;
+		    width: 1049px;
+		}
+	  .apple-secondtitle-order {
+	    float: left;
+	    width: 95%;
+	    max-width: 1029px;
+	    margin-bottom: 30px;
+	    font-weight: 400;
+	    font-size: 16px;
+        margin-left: 19px;
+
+	}
+	.apple-title-order li {
+	    padding: 5px 0;
+	    float: left;
+	    width: 100%;
+	    font-size: 1em;
+	    list-style: outside none url;
+	}
+	.apple-title-order a {
+	    border-bottom: 1px solid;
+	}
+	.apple-secondtitle-order li {
+	    font-weight: 400;
+	    font-size: 16px;
+	    font-family: 'Roboto', sans-serif !important;
+	    list-style: outside none url;
+	}
+	.card-title p b {
+		    font-weight: bold;
+		    color: #00aced;
+		}
+	ul.apple-secondtitle-unorder {
+	    margin-bottom: 30px !important;
+	    float: left !important;
+	    list-style: initial;
+	    margin-left: 50px;
+	}
+	.apple-img-footer {
+	    margin: 20px 0;
+	}
+	.apple-secondtitle-unorder li {
+    padding: 5px 0;
+    float: left;
+    width: 100%;
+    font-size: 1em;
+    max-width: 1000px;
+}
+.googleplay-subtitle {
+    float: left;
+    width: 100%;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 10px 0 0px 0px;
+    font-family: 'Roboto', sans-serif  !important;
+
+	}
+	.phoneView
+    {
+        background: url("../images/c5ce8ad9d511f0986f59fc24795df1d4.png") no-repeat;
+        background-size: 100%;
+        padding: 0px 22px !important;
+        height: 107%;
+        box-shadow: 0px 0px 0px 0px rgb(255, 255, 255) ! important;
+
+        
+    }
+    .phone::after {
+        background:transparent !important;
+        border: 0px !important
+    }
+    .phone::before {
+        background:transparent !important;
+    }
+    .androidFrame
+    {
+        width: 289px !important;
+        height: 517px !important;
+        margin-left: -2px !important;
+        margin-top: 10px !important;
+    }
+    .iosIframe
+    {
+    	border-radius: 25px !important;
+		width: 285px !important;
+		margin-left: -4px !important;
+		margin-top: 6% !important;
+    }
+    .common-bizeazy-ios
+    {
+    	margin: -97px 0 0 60px !important;
+    }
+    .common-bizeazy-android
+    {
+    	margin: -54px 0 0 200px !important;
+
+    }
+    .common-phone {
+    position: absolute;
+    margin-right: -115px !important;
+    margin-top: 110px;
+
+
+	}

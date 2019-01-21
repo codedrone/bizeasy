@@ -1,0 +1,70 @@
+.errvalidationtext {
+	font-size: 13px;
+	color: #f83400 !important;
+	padding-top: 10px;
+}
+.help-block {
+	display: none;
+	color: #d8482c;
+	font-size: 13px;
+}
+.validationimg {
+	vertical-align: 2px;
+}
+.login-wrapper{
+	width: 100%;
+	max-width: 400px;
+	margin: 150px auto 0;
+	color: #fff;
+	padding: 30px 30px 20px 30px;
+	background: #0B2A2F none repeat scroll 0 0;
+	box-shadow: 0 0 30px 1px white;
+	border-radius: 10px;
+}
+.login-header .logo{
+	border-radius:3px;
+	margin-top: 3px;
+	width: auto;
+	height:80%;
+	max-width: 240px;
+}
+.login-header{
+	position: relative;
+	top: 0;
+	right: 0;
+	left: 0;
+	height: 100px;
+}
+.login-header.dark{
+	background: rgba(0,0,0,0.2);
+}
+.btnFrmTopSpc{
+	margin-top: 30px;
+}
+.btnFrmTop{
+	margin-top: 38px;
+}
+.label-active{
+	color: #8CC152;
+    font-size: 15px
+}
+.label-inactive{
+	color: #E9573F;
+	font-size: 15px
+}
+.label-pending{
+	color: #2079FF;
+	font-size: 15px	
+}
+.bizeazy-logo{
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding: 20px 0;
+}
+.main-row {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
